@@ -11,7 +11,7 @@ After installation, run the tool with a brief command :
 
 <b2>The Command :</b2>
 
-cd A7Admin-Panel-Finder && python2 admin.py
+cd A7Admin-Panel-Finder && python2 A7Admin.py
 
 Then the URL will be requested without https: // or (//)
 
